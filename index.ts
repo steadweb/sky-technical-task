@@ -1,0 +1,1 @@
+export { registry as Container, Inject, Service} from "./src/Container";
